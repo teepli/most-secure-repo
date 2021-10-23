@@ -1,2 +1,2 @@
 # most-secure-repo
-Super secure repo
+This is super secure repo, no vulnerabilities to be found
